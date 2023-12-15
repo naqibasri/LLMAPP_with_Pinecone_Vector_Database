@@ -7,3 +7,4 @@ langchain
 pandas 
 numpy
 python-dotenv
+pydantic==1.10.9
